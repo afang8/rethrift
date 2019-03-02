@@ -6,3 +6,11 @@
 .portfolio-icon {
     width: 100px;
 }
+
+.p-b-s {
+    padding-bottom: 1rem;
+}
+
+.p-b-m {
+    padding-bottom: 2rem;
+}

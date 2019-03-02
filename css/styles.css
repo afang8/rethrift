@@ -18,3 +18,8 @@ body {
 .p-b-m {
     padding-bottom: 2rem;
 }
+
+/* Bootstrap override */
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
+    background-color: #E89DA8!important;
+}
